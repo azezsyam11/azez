@@ -1,5 +1,3 @@
-
 requests
 telethon
 flask
-dotenv-dotenv
