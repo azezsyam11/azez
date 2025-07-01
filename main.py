@@ -6,7 +6,7 @@ from keep_alive import keep_alive
 # ====== بيانات Telethon ======
 api_id = 23744337
 api_hash = 'a2f8a95102ca063ba2f9c822897d2b18'
-session = 'forward_multi_session'
+session = 'forward_multi_session2'
 
 # قنوات المصدر
 source_channels = ['ajanews', 'iraninarabic']
